@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+I'm Cedric from Germany - as I was taught in school 🏫
+
+As a teen I always wanted to code and make computers do stuff 👨🏼‍💻 - on my way there I discovered terraform and yeah, now I didn't program computers but I _code_ cloud infrastructure. ☁︎
+
+Started with AWS and Kubernetes I'm now working with Azure and mid sized companies to adopt the cloud and build a solid and scalable foundation to run current and future workload in the cloud. ⚙
+
 <!--
+I need this for inspiration
 **clowa/clowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
