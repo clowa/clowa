@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=clowa.visitor-badge)
 ### Hi there 👋
 
 I'm Cedric from Germany - as I was taught in school 🏫
@@ -5,6 +6,8 @@ I'm Cedric from Germany - as I was taught in school 🏫
 As a teen I always wanted to code and make computers do stuff 👨🏼‍💻 - on my way there I discovered terraform and yeah, now I didn't program computers but I _code_ cloud infrastructure. ☁︎
 
 Started with AWS and Kubernetes I'm now working with Azure and mid sized companies to adopt the cloud and build a solid and scalable foundation to run current and future workload in the cloud. ⚙
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clowa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 I need this for inspiration
