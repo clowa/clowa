@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=clowa.visitor-badge)
 ### Hi there 👋
 
-I'm Cedric from Germany - as I was taught in school 🏫
+I'm Cedric from Germany 🏫
 
 As a teen I always wanted to code and make computers do stuff 👨🏼‍💻 - on my way there I discovered terraform and yeah, now I didn't program computers but I _code_ cloud infrastructure. ☁︎
 
